@@ -1,1 +1,0 @@
-g_key = "AIzaSyCXPbBmhkC9jeAc9Rnl_wtsMurV7Elt5d4"
